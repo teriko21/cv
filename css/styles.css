@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 5%;
+
+}
+
+img {
+  border-style: solid;
+  border-color: red;
+}
+
+h1 {
+  color: #84142d;
+  text-decoration: underline;
+  text-decoration-color: darkgrey;
+}
+
+h3{
+  color: #dd2c00;
+}
